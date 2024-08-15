@@ -2,4 +2,4 @@
 
 ### This is my first static webpage.
 
-![video](demo.mp4)
+![photo](demo.png)
